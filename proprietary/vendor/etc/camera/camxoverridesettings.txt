@@ -1,0 +1,11 @@
+singleIFESupportedWidth=4208
+singleIFESupportedHeight=3120
+IFEDualClockThreshold=600000000
+multiCameraEnable=TRUE
+enableSensorHWSync=TRUE
+enableSensorFpsMatch=TRUE
+multiCameraFrameSync=1
+overrideLogLevels=15
+logInfoMask=0x70088
+enableNCSService=TRUE
+exposeFullSizeForQCFA=FALSE
